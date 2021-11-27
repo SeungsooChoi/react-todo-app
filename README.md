@@ -19,3 +19,5 @@ node-sass, classnames, react-icons
 > TodoList
 >
 > todos 배열을 props로 받아온 후 여러 개의 TodoListItem 컴포넌트로 변환하여 보여줌
+
+<img width="785" alt="스크린샷 2021-11-27 오후 5 49 08" src="https://user-images.githubusercontent.com/34928445/143674849-8e3c3f0c-8bd0-4ce9-aaa8-a70682eb64f9.png">
